@@ -3,7 +3,7 @@ export const activities = [
     index: 1,
     title: 'Enter Sandman',
     subTitle: 'Metallica',
-    avatar: 'https://res.cloudinary.com/codewithappy/image/upload/q_25/v1656710033/Images%20for%20web/1_ih5icy.jpg',
+    avatar: 'https://i.scdn.co/image/ab6761610000e5eb8101d13bdd630b0889acd2fd',
   },
   {
     index: 2,

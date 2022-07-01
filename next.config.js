@@ -16,8 +16,6 @@ const nextConfig = {
       'w0.peakpx.com',
       'cloudinary.com/'
     ],
-    loader: 'akamai',
-    path: '/',
   },
 }
 
