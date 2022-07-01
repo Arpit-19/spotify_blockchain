@@ -13,8 +13,11 @@ const nextConfig = {
       'i.scdn.co',
       'resources.tidal.com',
       'encrypted-tbn1.gstatic.com',
-      'w0.peakpx.com'
+      'w0.peakpx.com',
+      'cloudinary.com/'
     ],
+    loader: 'akamai',
+    path: '/',
   },
 }
 
